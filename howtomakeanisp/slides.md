@@ -82,4 +82,4 @@ In Catalogne (Spain), also do fiber
 
 * wiring the country with coper or fiber (cost billions, legal obstacles)
 * mesh networking : like wifi but super complicated and doesn't scale at all
-* 4G 5G etc ... licence cost millions
+* 3G 4G 5G etc ... licence cost millions
